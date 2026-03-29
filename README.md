@@ -1,3 +1,3 @@
 # Comandos-Linux
 # Davi Nascimento 
-# Prof: Renato William
+# Professor: Renato William
